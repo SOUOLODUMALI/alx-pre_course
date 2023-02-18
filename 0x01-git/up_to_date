@@ -1,0 +1,2 @@
+git checkout -b up_to_date
+git pull origin master
